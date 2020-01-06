@@ -1,1 +1,1 @@
-# OpenMRS-homr-page
+# OpenMRS-home-page
